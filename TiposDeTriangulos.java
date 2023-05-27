@@ -4,11 +4,11 @@ public class TiposDeTriangulos {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
 
-            System.out.println("Tamanho do L1: ");
+            System.out.println("Digite o tamanho do L1: ");
         float L1 = sc.nextInt();
-                  System.out.println("Tamanho do L2: ");
+                  System.out.println("Digite o tamanho do L2: ");
             float L2 = sc.nextInt();
-               System.out.println("Tamanho do L3: ");
+               System.out.println("Digite o tamanho do L3: ");
         float L3 = sc.nextInt();
       
                 
