@@ -33,7 +33,8 @@ public class EntreDatas {
 
         Period periodoEntre = Period.between(dateInicial, dateFinal);
 
-        System.out.printf("Anos: %d, Meses: %d, Dias: %d", periodoEntre.getYears(), periodoEntre.getMonths(), periodoEntre.getDays());
+        System.out.printf("Anos: %d, Meses: %d, Dias: %d", periodoEntre.getYears(), periodoEntre.getMonths(),
+                periodoEntre.getDays());
 
         scanner.close();
     }

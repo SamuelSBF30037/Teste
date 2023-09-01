@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class AprovadoOuReprovado {
     public static void main(String[] args) {
-        // Algoritmo que lê 3 notas do aluno e retorna aprovado, recuperação ou reprovado
+        // Algoritmo que lê 3 notas do aluno e retorna aprovado, recuperação ou
+        // reprovado
         // ps: A nota maxima devera ser 10
-
         // Ler 3 inputs do usuario e salvar nas variaveis nota1, nota2 e nota3
         // Calcular a média das notas
         // Se for menor que 5: ALUNO REPROVADO

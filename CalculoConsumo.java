@@ -22,7 +22,7 @@ public class CalculoConsumo {
         float kms = kmAtual - kmInicial;
 
         float kml = kms / litros;
-        
+
         System.out.println(String.format("KMs p/l: %.1f", kml));
 
         sc.close();
